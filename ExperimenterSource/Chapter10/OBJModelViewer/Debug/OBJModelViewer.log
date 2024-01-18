@@ -1,0 +1,10 @@
+﻿  OBJmodelViewer.cpp
+F:\Desktop\Current\计图\ExperimenterSource\Chapter10\OBJModelViewer\OBJmodelViewer.cpp(193,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\Desktop\Current\计图\ExperimenterSource\Chapter10\OBJModelViewer\OBJmodelViewer.cpp(219,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\Desktop\Current\计图\ExperimenterSource\Chapter10\OBJModelViewer\OBJmodelViewer.cpp(223,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\Desktop\Current\计图\ExperimenterSource\Chapter10\OBJModelViewer\OBJmodelViewer.cpp(251,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\Desktop\Current\计图\ExperimenterSource\Chapter10\OBJModelViewer\OBJmodelViewer.cpp(276,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\Desktop\Current\计图\ExperimenterSource\Chapter10\OBJModelViewer\OBJmodelViewer.cpp(280,41): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+F:\Desktop\Current\计图\ExperimenterSource\Chapter10\OBJModelViewer\OBJmodelViewer.cpp(280,30): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+F:\Desktop\Current\计图\ExperimenterSource\Chapter10\OBJModelViewer\OBJmodelViewer.cpp(280,19): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  OBJModelViewer.vcxproj -> F:\Desktop\Current\计图\ExperimenterSource\Chapter10\OBJModelViewer\Debug\OBJModelViewer.exe

@@ -1,0 +1,3 @@
+﻿  circle.cpp
+F:\Desktop\Current\计图\ExperimenterSource\Chapter2\Circle\circle.cpp(44,28): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  Circle.vcxproj -> F:\Desktop\Current\计图\ExperimenterSource\Chapter2\Circle\Debug\Circle.exe

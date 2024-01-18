@@ -1,0 +1,11 @@
+﻿  experimentTriangles.cpp
+F:\Desktop\Current\计图\ExperimenterSource\Chapter2\ExperimentTriangles\experimentTriangles.cpp(23,25): warning C4305: “参数”: 从“double”到“GLfloat”截断
+F:\Desktop\Current\计图\ExperimenterSource\Chapter2\ExperimentTriangles\experimentTriangles.cpp(28,25): warning C4305: “参数”: 从“double”到“GLfloat”截断
+F:\Desktop\Current\计图\ExperimenterSource\Chapter2\ExperimentTriangles\experimentTriangles.cpp(33,25): warning C4305: “参数”: 从“double”到“GLfloat”截断
+F:\Desktop\Current\计图\ExperimenterSource\Chapter2\ExperimentTriangles\experimentTriangles.cpp(38,25): warning C4305: “参数”: 从“double”到“GLfloat”截断
+F:\Desktop\Current\计图\ExperimenterSource\Chapter2\ExperimentTriangles\experimentTriangles.cpp(43,25): warning C4305: “参数”: 从“double”到“GLfloat”截断
+F:\Desktop\Current\计图\ExperimenterSource\Chapter2\ExperimentTriangles\experimentTriangles.cpp(48,25): warning C4305: “参数”: 从“double”到“GLfloat”截断
+F:\Desktop\Current\计图\ExperimenterSource\Chapter2\ExperimentTriangles\experimentTriangles.cpp(53,25): warning C4305: “参数”: 从“double”到“GLfloat”截断
+F:\Desktop\Current\计图\ExperimenterSource\Chapter2\ExperimentTriangles\experimentTriangles.cpp(58,25): warning C4305: “参数”: 从“double”到“GLfloat”截断
+F:\Desktop\Current\计图\ExperimenterSource\Chapter2\ExperimentTriangles\experimentTriangles.cpp(63,25): warning C4305: “参数”: 从“double”到“GLfloat”截断
+  ExperimentTriangles.vcxproj -> F:\Desktop\Current\计图\ExperimenterSource\Chapter2\ExperimentTriangles\Debug\ExperimentTriangles.exe
